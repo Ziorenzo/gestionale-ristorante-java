@@ -44,5 +44,15 @@ Nel progetto mi sono occupato di:
 - MySQL
 - JDBC
 
+## 📸 Screenshot dell'applicazione
+
+### 👨‍🍳 Schermata del Cameriere  
+Il cameriere può selezionare i prodotti da servire, specificare il tavolo e la quantità, e aggiungere gli ordini. È anche possibile eliminare un ordine cliccando sul pulsante “Remove”, previa conferma tramite pop-up.  
+![Schermata Cameriere](SchermataCameriere.png)
+
+### 👨‍💼 Schermata dell’Amministratore  
+L’amministratore può visualizzare il riepilogo dell’ordine, calcolare il totale e il resto, selezionare il metodo di pagamento e finalizzare la transazione.  
+![Schermata Pagamento](SchermataPagamento.png)
+
 ---
 
