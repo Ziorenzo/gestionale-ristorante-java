@@ -27,14 +27,17 @@ Questo progetto è stato realizzato come parte dell’esame di Programmazione II
 
 ## 👥 Team
 
-- Fabio Salese  
+- Fabio Salese 
+    Nel progetto si è occupato di:
+    - Logica degli ordini
+    - Collegamento con MySQL
+    - Implementazione dei pattern Strategy e Command
+    - Gestione delle classi `Ordine`, `Prodotto` e `Conto`
 - Crescenzo Cerqua
-
-Nel progetto mi sono occupato di:
-- Logica degli ordini
-- Collegamento con MySQL
-- Implementazione dei pattern Strategy e Command
-- Gestione delle classi `Ordine`, `Prodotto` e `Conto`
+ Nel progetto si è occupato di:
+    - Implementazione dei pattern Prototype e Chain of Responsibility
+    - Progettazione e sviluppo completo dell’interfaccia utente grafica dell’applicazione 
+    - Redazione della documentazione tecnica e preparazione della presentazione del progetto
 
 ## 🛠️ Tecnologie
 
